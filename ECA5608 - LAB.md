@@ -1,6 +1,3 @@
-ECA5608 - LAB
-
-Experiment 1: Simulation Task
-Screenshot: exp 1.1.png
-Screenshot: exp 1.2.png
-Screenshot: exp 1.3.png
+![Experiment 1 Screenshot](exp%201.1.png)
+![Experiment 2 Screenshot](exp%201.2.png)
+![Experiment 3 Screenshot](exp%201.3.png)
